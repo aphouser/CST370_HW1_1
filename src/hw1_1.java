@@ -1,3 +1,13 @@
+/*
+ * HackerRank link:https://www.hackerrank.com/contests/cst370-su20-hw1/challenges/common-nums/submissions/code/1323146052import java.util.*;
+ * Title: hw1_1.java
+ * Abstract: This program reads the user's input data for 2 groups of numbers
+ *          and compares for common entries.  Then prints those entries or NONE.
+ * Author: Adam Houser
+ * ID: 1144
+ * Date: 04/26/2020
+ */
+
 import java.util.*;
 
 public class hw1_1 {
